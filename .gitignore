@@ -3,6 +3,7 @@ struc_data/*
 *.ttf
 *.otf
 test*
+temp*
 YuFanXiLiu.sfd
 
 __pycache__

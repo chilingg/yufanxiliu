@@ -43562,11 +43562,18 @@
               "p_type": "Line",
               "point": [
                 2,
-                7
+                8
               ]
             },
             {
               "p_type": "Line",
+              "point": [
+                8,
+                8
+              ]
+            },
+            {
+              "p_type": "Mark",
               "point": [
                 8,
                 7
@@ -71395,1208 +71402,1206 @@
       ]
     },
     "correction_table": {
-      "data": {
-        "齑": {
-          "tp": {
-            "Scale": "Vertical"
+      "临": {
+        "tp": {
+          "Scale": "Horizontal"
+        },
+        "components": [
+          {
+            "Char": "〢r"
           },
-          "components": [
-            {
-              "Char": "文"
-            },
-            {
-              "Complex": {
-                "tp": {
-                  "Scale": "Horizontal"
+          {
+            "Complex": {
+              "tp": {
+                "Scale": "Vertical"
+              },
+              "components": [
+                {
+                  "Char": "丿一丶"
                 },
-                "components": [
-                  {
-                    "Char": "丿"
-                  },
-                  {
-                    "Char": "韭"
-                  },
-                  {
-                    "Char": "丨"
-                  }
-                ]
-              }
+                {
+                  "Char": "𫩏"
+                }
+              ]
             }
-          ]
+          }
+        ]
+      },
+      "丽": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "黾": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "一"
           },
-          "components": [
-            {
-              "Char": "口"
-            },
-            {
-              "Char": "电"
-            }
-          ]
-        },
-        "县": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "且"
-            },
-            {
-              "Char": "厶"
-            }
-          ]
-        },
-        "県": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "目"
-            },
-            {
-              "Char": "一"
-            },
-            {
-              "Char": "小"
-            }
-          ]
-        },
-        "侯-亻": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "ユ"
-            },
-            {
-              "Char": "矢"
-            }
-          ]
-        },
-        "有": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "𠂇"
-            },
-            {
-              "Char": "月"
-            }
-          ]
-        },
-        "燕-廿灬": {
-          "tp": {
-            "Scale": "Horizontal"
-          },
-          "components": [
-            {
-              "Char": "北l"
-            },
-            {
-              "Char": "口"
-            },
-            {
-              "Char": "北r"
-            }
-          ]
-        },
-        "克": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "十"
-            },
-            {
-              "Char": "兄"
-            }
-          ]
-        },
-        "临": {
-          "tp": {
-            "Scale": "Horizontal"
-          },
-          "components": [
-            {
-              "Char": "〢r"
-            },
-            {
-              "Complex": {
-                "tp": {
-                  "Scale": "Vertical"
-                },
-                "components": [
-                  {
-                    "Char": "丿一丶"
-                  },
-                  {
-                    "Char": "𫩏"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        "韭": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "非"
-            },
-            {
-              "Char": "一"
-            }
-          ]
-        },
-        "弟": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "丷"
-            },
-            {
-              "Char": "𢎨"
-            }
-          ]
-        },
-        "鹿-比": {
-          "tp": {
-            "Surround": {
-              "h": "Start",
-              "v": "Start"
-            }
-          },
-          "components": [
-            {
-              "Char": "广"
-            },
-            {
-              "Char": "鹿s"
-            }
-          ]
-        },
-        "北": {
-          "tp": {
-            "Scale": "Horizontal"
-          },
-          "components": [
-            {
-              "Char": "北l"
-            },
-            {
-              "Char": "北r"
-            }
-          ]
-        },
-        "邦": {
-          "tp": {
-            "Scale": "Horizontal"
-          },
-          "components": [
-            {
-              "Char": "丰字旁"
-            },
-            {
-              "Char": "阝"
-            }
-          ]
-        },
-        "旅": {
-          "tp": {
-            "Scale": "Horizontal"
-          },
-          "components": [
-            {
-              "Char": "方"
-            },
-            {
-              "Complex": {
-                "tp": {
-                  "Scale": "Vertical"
-                },
-                "components": [
-                  {
-                    "Char": "𠂉"
-                  },
-                  {
-                    "Char": "𧘇s"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        "𠫓": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "亠"
-            },
-            {
-              "Char": "厶"
-            }
-          ]
-        },
-        "父": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "八"
-            },
-            {
-              "Char": "乂"
-            }
-          ]
-        },
-        "妻": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "妻字头"
-            },
-            {
-              "Char": "女"
-            }
-          ]
-        },
-        "镸": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "镸字头"
-            },
-            {
-              "Char": "厶"
-            }
-          ]
-        },
-        "𫂱": {
-          "tp": {
-            "Scale": "Horizontal"
-          },
-          "components": [
-            {
-              "Char": "丿"
-            },
-            {
-              "Char": "米"
-            },
-            {
-              "Char": "丨"
-            }
-          ]
-        },
-        "帝": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "旁-方"
-            },
-            {
-              "Char": "巾"
-            }
-          ]
-        },
-        "养": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "羊"
-            },
-            {
-              "Char": "八"
-            },
-            {
-              "Char": "丿丨"
-            }
-          ]
-        },
-        "角": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "⺈"
-            },
-            {
-              "Char": "用"
-            }
-          ]
-        },
-        "匃": {
-          "tp": {
-            "Surround": {
-              "h": "End",
-              "v": "Mind"
-            }
-          },
-          "components": [
-            {
-              "Char": "勹"
-            },
-            {
-              "Char": "亾"
-            }
-          ]
-        },
-        "南": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "十"
-            },
-            {
-              "Complex": {
-                "tp": {
-                  "Surround": {
-                    "h": "Mind",
-                    "v": "Start"
-                  }
-                },
-                "components": [
-                  {
-                    "Char": "冂"
-                  },
-                  {
-                    "Char": "𢆉"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        "桌-木": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "⺊"
-            },
-            {
-              "Char": "日"
-            }
-          ]
-        },
-        "兔": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "⺈"
-            },
-            {
-              "Char": "兔字底"
-            }
-          ]
-        },
-        "高-冋": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "亠"
-            },
-            {
-              "Char": "口"
-            }
-          ]
-        },
-        "并": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "丷"
-            },
-            {
-              "Char": "开"
-            }
-          ]
-        },
-        "典": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "典字头"
-            },
-            {
-              "Char": "八字底"
-            }
-          ]
-        },
-        "呙": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "口"
-            },
-            {
-              "Char": "内"
-            }
-          ]
-        },
-        "幸": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "土"
-            },
-            {
-              "Char": "𢆉"
-            }
-          ]
-        },
-        "壹": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Complex": {
-                "tp": {
-                  "Scale": "Vertical"
-                },
-                "components": [
-                  {
-                    "Char": "士"
-                  },
-                  {
-                    "Char": "冖"
-                  }
-                ]
-              }
-            },
-            {
-              "Char": "豆"
-            }
-          ]
-        },
-        "魚": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "魚字头"
-            },
-            {
-              "Char": "灬"
-            }
-          ]
-        },
-        "带": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "带字头"
-            },
-            {
-              "Char": "冖"
-            },
-            {
-              "Char": "巾"
-            }
-          ]
-        },
-        "金": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "人"
-            },
-            {
-              "Char": "金-人"
-            }
-          ]
-        },
-        "去": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "土"
-            },
-            {
-              "Char": "厶"
-            }
-          ]
-        },
-        "共": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "龷"
-            },
-            {
-              "Char": "八"
-            }
-          ]
-        },
-        "卵": {
-          "tp": {
-            "Scale": "Horizontal"
-          },
-          "components": [
-            {
-              "Char": "卵l"
-            },
-            {
-              "Char": "卵r"
-            }
-          ]
-        },
-        "树": {
-          "tp": {
-            "Scale": "Horizontal"
-          },
-          "components": [
-            {
-              "Char": "木"
-            },
-            {
-              "Char": "又"
-            },
-            {
-              "Char": "寸"
-            }
-          ]
-        },
-        "至": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "一"
-            },
-            {
-              "Char": "厶"
-            },
-            {
-              "Char": "土"
-            }
-          ]
-        },
-        "壳": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Complex": {
-                "tp": {
-                  "Scale": "Vertical"
-                },
-                "components": [
-                  {
-                    "Char": "士"
-                  },
-                  {
-                    "Char": "冖"
-                  }
-                ]
-              }
-            },
-            {
-              "Char": "几"
-            }
-          ]
-        },
-        "壶": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Complex": {
-                "tp": {
-                  "Scale": "Vertical"
-                },
-                "components": [
-                  {
-                    "Char": "士"
-                  },
-                  {
-                    "Char": "冖"
-                  }
-                ]
-              }
-            },
-            {
-              "Char": "业"
-            }
-          ]
-        },
-        "鱼": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "魚字头"
-            },
-            {
-              "Char": "一"
-            }
-          ]
-        },
-        "無": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "無字头"
-            },
-            {
-              "Char": "灬"
-            }
-          ]
-        },
-        "丽": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "一"
-            },
-            {
-              "Complex": {
-                "tp": {
-                  "Scale": "Horizontal"
-                },
-                "components": [
-                  {
-                    "Complex": {
-                      "tp": {
-                        "Surround": {
-                          "h": "Mind",
-                          "v": "Mind"
-                        }
+          {
+            "Complex": {
+              "tp": {
+                "Scale": "Horizontal"
+              },
+              "components": [
+                {
+                  "Complex": {
+                    "tp": {
+                      "Surround": {
+                        "h": "Mind",
+                        "v": "Mind"
+                      }
+                    },
+                    "components": [
+                      {
+                        "Char": "冂"
                       },
-                      "components": [
-                        {
-                          "Char": "冂"
-                        },
-                        {
-                          "Char": "丶"
-                        }
-                      ]
-                    }
-                  },
-                  {
-                    "Complex": {
-                      "tp": {
-                        "Surround": {
-                          "h": "Mind",
-                          "v": "Mind"
-                        }
+                      {
+                        "Char": "丶"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Complex": {
+                    "tp": {
+                      "Surround": {
+                        "h": "Mind",
+                        "v": "Mind"
+                      }
+                    },
+                    "components": [
+                      {
+                        "Char": "冂"
                       },
-                      "components": [
-                        {
-                          "Char": "冂"
-                        },
-                        {
-                          "Char": "丶"
-                        }
-                      ]
-                    }
+                      {
+                        "Char": "丶"
+                      }
+                    ]
                   }
-                ]
-              }
+                }
+              ]
             }
-          ]
+          }
+        ]
+      },
+      "云": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "卸": {
-          "tp": {
-            "Scale": "Horizontal"
+        "components": [
+          {
+            "Char": "二"
           },
-          "components": [
-            {
-              "Char": "⿱午止"
-            },
-            {
-              "Char": "卩"
-            }
-          ]
+          {
+            "Char": "厶"
+          }
+        ]
+      },
+      "亓": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "或": {
-          "tp": {
-            "Surround": {
-              "h": "End",
-              "v": "Start"
-            }
+        "components": [
+          {
+            "Char": "二"
           },
-          "components": [
-            {
-              "Char": "戈"
-            },
-            {
-              "Complex": {
-                "tp": {
-                  "Scale": "Vertical"
+          {
+            "Char": "丿丨"
+          }
+        ]
+      },
+      "仒": {
+        "tp": "Single",
+        "components": []
+      },
+      "会": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "人"
+          },
+          {
+            "Char": "云"
+          }
+        ]
+      },
+      "侯-亻": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "ユ"
+          },
+          {
+            "Char": "矢"
+          }
+        ]
+      },
+      "克": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "十"
+          },
+          {
+            "Char": "兄"
+          }
+        ]
+      },
+      "免": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "⺈"
+          },
+          {
+            "Char": "免字底"
+          }
+        ]
+      },
+      "兔": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "⺈"
+          },
+          {
+            "Char": "兔字底"
+          }
+        ]
+      },
+      "共": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "龷"
+          },
+          {
+            "Char": "八"
+          }
+        ]
+      },
+      "典": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "典字头"
+          },
+          {
+            "Char": "八字底"
+          }
+        ]
+      },
+      "兹": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "䒑"
+          },
+          {
+            "Complex": {
+              "tp": {
+                "Scale": "Horizontal"
+              },
+              "components": [
+                {
+                  "Char": "幺"
                 },
-                "components": [
-                  {
-                    "Char": "口"
-                  },
-                  {
-                    "Char": "横丿"
-                  }
-                ]
-              }
+                {
+                  "Char": "幺"
+                }
+              ]
             }
-          ]
+          }
+        ]
+      },
+      "养": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "舞": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "羊"
           },
-          "components": [
-            {
-              "Char": "無字头"
-            },
-            {
-              "Char": "舛"
-            }
-          ]
+          {
+            "Char": "八"
+          },
+          {
+            "Char": "丿丨"
+          }
+        ]
+      },
+      "勺": {
+        "tp": {
+          "Surround": {
+            "h": "End",
+            "v": "Mind"
+          }
         },
-        "焉": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "勹"
           },
-          "components": [
-            {
-              "Char": "正"
-            },
-            {
-              "Complex": {
-                "tp": {
-                  "Surround": {
-                    "h": "End",
-                    "v": "Start"
-                  }
+          {
+            "Char": "丶"
+          }
+        ]
+      },
+      "匃": {
+        "tp": {
+          "Surround": {
+            "h": "End",
+            "v": "Mind"
+          }
+        },
+        "components": [
+          {
+            "Char": "勹"
+          },
+          {
+            "Char": "亾"
+          }
+        ]
+      },
+      "北": {
+        "tp": {
+          "Scale": "Horizontal"
+        },
+        "components": [
+          {
+            "Char": "北l"
+          },
+          {
+            "Char": "北r"
+          }
+        ]
+      },
+      "南": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "十"
+          },
+          {
+            "Complex": {
+              "tp": {
+                "Surround": {
+                  "h": "Mind",
+                  "v": "Start"
+                }
+              },
+              "components": [
+                {
+                  "Char": "冂"
                 },
-                "components": [
-                  {
-                    "Char": "与字包围"
-                  },
-                  {
-                    "Char": "灬"
-                  }
-                ]
-              }
+                {
+                  "Char": "𢆉"
+                }
+              ]
             }
-          ]
+          }
+        ]
+      },
+      "卵": {
+        "tp": {
+          "Scale": "Horizontal"
         },
-        "玄": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "卵l"
           },
-          "components": [
-            {
-              "Char": "亠"
-            },
-            {
-              "Char": "幺"
-            }
-          ]
+          {
+            "Char": "卵r"
+          }
+        ]
+      },
+      "卸": {
+        "tp": {
+          "Scale": "Horizontal"
         },
-        "兹": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "⿱午止"
           },
-          "components": [
-            {
-              "Char": "䒑"
-            },
-            {
-              "Complex": {
-                "tp": {
-                  "Scale": "Horizontal"
+          {
+            "Char": "卩"
+          }
+        ]
+      },
+      "去": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "土"
+          },
+          {
+            "Char": "厶"
+          }
+        ]
+      },
+      "县": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "且"
+          },
+          {
+            "Char": "厶"
+          }
+        ]
+      },
+      "呙": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "口"
+          },
+          {
+            "Char": "内"
+          }
+        ]
+      },
+      "壳": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Complex": {
+              "tp": {
+                "Scale": "Vertical"
+              },
+              "components": [
+                {
+                  "Char": "士"
                 },
-                "components": [
-                  {
-                    "Char": "幺"
-                  },
-                  {
-                    "Char": "幺"
-                  }
-                ]
-              }
+                {
+                  "Char": "冖"
+                }
+              ]
             }
-          ]
-        },
-        "画": {
-          "tp": {
-            "Scale": "Vertical"
           },
-          "components": [
-            {
-              "Char": "一"
-            },
-            {
-              "Complex": {
-                "tp": {
-                  "Surround": {
-                    "h": "Mind",
-                    "v": "End"
-                  }
+          {
+            "Char": "几"
+          }
+        ]
+      },
+      "壶": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Complex": {
+              "tp": {
+                "Scale": "Vertical"
+              },
+              "components": [
+                {
+                  "Char": "士"
                 },
-                "components": [
-                  {
-                    "Char": "凵"
-                  },
-                  {
-                    "Char": "田"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        "甸": {
-          "tp": {
-            "Surround": {
-              "h": "End",
-              "v": "Mind"
+                {
+                  "Char": "冖"
+                }
+              ]
             }
           },
-          "components": [
-            {
-              "Char": "勹"
-            },
-            {
-              "Char": "田"
-            }
-          ]
+          {
+            "Char": "业"
+          }
+        ]
+      },
+      "壹": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "穴": {
-          "tp": "Single",
-          "components": []
-        },
-        "胤": {
-          "tp": {
-            "Scale": "Horizontal"
-          },
-          "components": [
-            {
-              "Char": "丿"
-            },
-            {
-              "Complex": {
-                "tp": {
-                  "Scale": "Vertical"
+        "components": [
+          {
+            "Complex": {
+              "tp": {
+                "Scale": "Vertical"
+              },
+              "components": [
+                {
+                  "Char": "士"
                 },
-                "components": [
-                  {
-                    "Char": "幺"
-                  },
-                  {
-                    "Char": "月"
-                  }
-                ]
-              }
-            },
-            {
-              "Char": "乚"
-            }
-          ]
-        },
-        "𠂢": {
-          "tp": {
-            "Surround": {
-              "h": "Start",
-              "v": "Start"
+                {
+                  "Char": "冖"
+                }
+              ]
             }
           },
-          "components": [
-            {
-              "Char": "𠂆"
-            },
-            {
-              "Char": "𧘇s"
-            }
-          ]
+          {
+            "Char": "豆"
+          }
+        ]
+      },
+      "妻": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "录": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "妻字头"
           },
-          "components": [
-            {
-              "Char": "彑s"
-            },
-            {
-              "Char": "氺"
-            }
-          ]
+          {
+            "Char": "女"
+          }
+        ]
+      },
+      "帝": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "糸": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "旁-方"
           },
-          "components": [
-            {
-              "Char": "幺"
-            },
-            {
-              "Char": "小"
-            }
-          ]
+          {
+            "Char": "巾"
+          }
+        ]
+      },
+      "带": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "戍": {
-          "tp": {
-            "Surround": {
-              "h": "Mind",
-              "v": "Start"
-            }
+        "components": [
+          {
+            "Char": "带字头"
           },
-          "components": [
-            {
-              "Char": "戊"
-            },
-            {
-              "Char": "丶"
-            }
-          ]
+          {
+            "Char": "冖"
+          },
+          {
+            "Char": "巾"
+          }
+        ]
+      },
+      "并": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "免": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "丷"
           },
-          "components": [
-            {
-              "Char": "⺈"
-            },
-            {
-              "Char": "免字底"
-            }
-          ]
+          {
+            "Char": "开"
+          }
+        ]
+      },
+      "幸": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "勺": {
-          "tp": {
-            "Surround": {
-              "h": "End",
-              "v": "Mind"
-            }
+        "components": [
+          {
+            "Char": "土"
           },
-          "components": [
-            {
-              "Char": "勹"
-            },
-            {
-              "Char": "丶"
-            }
-          ]
+          {
+            "Char": "𢆉"
+          }
+        ]
+      },
+      "弟": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "会": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "丷"
           },
-          "components": [
-            {
-              "Char": "人"
-            },
-            {
-              "Char": "云"
-            }
-          ]
+          {
+            "Char": "𢎨"
+          }
+        ]
+      },
+      "录": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "亓": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "彑s"
           },
-          "components": [
-            {
-              "Char": "二"
-            },
-            {
-              "Char": "丿丨"
-            }
-          ]
+          {
+            "Char": "氺"
+          }
+        ]
+      },
+      "戍": {
+        "tp": {
+          "Surround": {
+            "h": "Mind",
+            "v": "Start"
+          }
         },
-        "枭": {
-          "tp": {
-            "Surround": {
-              "h": "End",
-              "v": "Start"
-            }
+        "components": [
+          {
+            "Char": "戊"
           },
-          "components": [
-            {
-              "Char": "鸟字头"
-            },
-            {
-              "Char": "木"
-            }
-          ]
+          {
+            "Char": "丶"
+          }
+        ]
+      },
+      "或": {
+        "tp": {
+          "Surround": {
+            "h": "End",
+            "v": "Start"
+          }
         },
-        "貝": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "戈"
           },
-          "components": [
-            {
-              "Char": "目"
-            },
-            {
-              "Char": "八"
-            }
-          ]
-        },
-        "豆": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "一"
-            },
-            {
-              "Char": "口"
-            },
-            {
-              "Char": "䒑"
-            }
-          ]
-        },
-        "魚字头": {
-          "tp": {
-            "Scale": "Vertical"
-          },
-          "components": [
-            {
-              "Char": "⺈"
-            },
-            {
-              "Char": "田"
-            }
-          ]
-        },
-        "臧": {
-          "tp": {
-            "Scale": "Horizontal"
-          },
-          "components": [
-            {
-              "Char": "爿"
-            },
-            {
-              "Complex": {
-                "tp": {
-                  "Surround": {
-                    "h": "End",
-                    "v": "Start"
-                  }
+          {
+            "Complex": {
+              "tp": {
+                "Scale": "Vertical"
+              },
+              "components": [
+                {
+                  "Char": "口"
                 },
-                "components": [
-                  {
-                    "Char": "戈"
-                  },
-                  {
-                    "Char": "臣"
-                  }
-                ]
-              }
+                {
+                  "Char": "横丿"
+                }
+              ]
             }
-          ]
+          }
+        ]
+      },
+      "旅": {
+        "tp": {
+          "Scale": "Horizontal"
         },
-        "仒": {
-          "tp": "Single",
-          "components": []
-        },
-        "云": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "方"
           },
-          "components": [
-            {
-              "Char": "二"
-            },
-            {
-              "Char": "厶"
+          {
+            "Complex": {
+              "tp": {
+                "Scale": "Vertical"
+              },
+              "components": [
+                {
+                  "Char": "𠂉"
+                },
+                {
+                  "Char": "𧘇s"
+                }
+              ]
             }
-          ]
+          }
+        ]
+      },
+      "旬": {
+        "tp": {
+          "Surround": {
+            "h": "End",
+            "v": "Mind"
+          }
         },
-        "舍": {
-          "tp": {
-            "Scale": "Vertical"
+        "components": [
+          {
+            "Char": "勹"
           },
-          "components": [
-            {
-              "Char": "𠆢"
-            },
-            {
-              "Char": "干"
-            },
-            {
-              "Char": "口"
-            }
-          ]
+          {
+            "Char": "日"
+          }
+        ]
+      },
+      "有": {
+        "tp": {
+          "Scale": "Vertical"
         },
-        "旬": {
-          "tp": {
-            "Surround": {
-              "h": "End",
-              "v": "Mind"
+        "components": [
+          {
+            "Char": "𠂇"
+          },
+          {
+            "Char": "月"
+          }
+        ]
+      },
+      "枭": {
+        "tp": {
+          "Surround": {
+            "h": "End",
+            "v": "Start"
+          }
+        },
+        "components": [
+          {
+            "Char": "鸟字头"
+          },
+          {
+            "Char": "木"
+          }
+        ]
+      },
+      "树": {
+        "tp": {
+          "Scale": "Horizontal"
+        },
+        "components": [
+          {
+            "Char": "木"
+          },
+          {
+            "Char": "又"
+          },
+          {
+            "Char": "寸"
+          }
+        ]
+      },
+      "桌-木": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "⺊"
+          },
+          {
+            "Char": "日"
+          }
+        ]
+      },
+      "焉": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "正"
+          },
+          {
+            "Complex": {
+              "tp": {
+                "Surround": {
+                  "h": "End",
+                  "v": "Start"
+                }
+              },
+              "components": [
+                {
+                  "Char": "与字包围"
+                },
+                {
+                  "Char": "灬"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "無": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "無字头"
+          },
+          {
+            "Char": "灬"
+          }
+        ]
+      },
+      "燕-廿灬": {
+        "tp": {
+          "Scale": "Horizontal"
+        },
+        "components": [
+          {
+            "Char": "北l"
+          },
+          {
+            "Char": "口"
+          },
+          {
+            "Char": "北r"
+          }
+        ]
+      },
+      "父": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "八"
+          },
+          {
+            "Char": "乂"
+          }
+        ]
+      },
+      "玄": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "亠"
+          },
+          {
+            "Char": "幺"
+          }
+        ]
+      },
+      "甸": {
+        "tp": {
+          "Surround": {
+            "h": "End",
+            "v": "Mind"
+          }
+        },
+        "components": [
+          {
+            "Char": "勹"
+          },
+          {
+            "Char": "田"
+          }
+        ]
+      },
+      "画": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "一"
+          },
+          {
+            "Complex": {
+              "tp": {
+                "Surround": {
+                  "h": "Mind",
+                  "v": "End"
+                }
+              },
+              "components": [
+                {
+                  "Char": "凵"
+                },
+                {
+                  "Char": "田"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "県": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "目"
+          },
+          {
+            "Char": "一"
+          },
+          {
+            "Char": "小"
+          }
+        ]
+      },
+      "穴": {
+        "tp": "Single",
+        "components": []
+      },
+      "糸": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "幺"
+          },
+          {
+            "Char": "小"
+          }
+        ]
+      },
+      "胤": {
+        "tp": {
+          "Scale": "Horizontal"
+        },
+        "components": [
+          {
+            "Char": "丿"
+          },
+          {
+            "Complex": {
+              "tp": {
+                "Scale": "Vertical"
+              },
+              "components": [
+                {
+                  "Char": "幺"
+                },
+                {
+                  "Char": "月"
+                }
+              ]
             }
           },
-          "components": [
-            {
-              "Char": "勹"
-            },
-            {
-              "Char": "日"
+          {
+            "Char": "乚"
+          }
+        ]
+      },
+      "臧": {
+        "tp": {
+          "Scale": "Horizontal"
+        },
+        "components": [
+          {
+            "Char": "爿"
+          },
+          {
+            "Complex": {
+              "tp": {
+                "Surround": {
+                  "h": "End",
+                  "v": "Start"
+                }
+              },
+              "components": [
+                {
+                  "Char": "戈"
+                },
+                {
+                  "Char": "臣"
+                }
+              ]
             }
-          ]
-        }
+          }
+        ]
+      },
+      "至": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "一"
+          },
+          {
+            "Char": "厶"
+          },
+          {
+            "Char": "土"
+          }
+        ]
+      },
+      "舍": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "𠆢"
+          },
+          {
+            "Char": "干"
+          },
+          {
+            "Char": "口"
+          }
+        ]
+      },
+      "舞": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "無字头"
+          },
+          {
+            "Char": "舛"
+          }
+        ]
+      },
+      "角": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "⺈"
+          },
+          {
+            "Char": "用"
+          }
+        ]
+      },
+      "豆": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "一"
+          },
+          {
+            "Char": "口"
+          },
+          {
+            "Char": "䒑"
+          }
+        ]
+      },
+      "貝": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "目"
+          },
+          {
+            "Char": "八"
+          }
+        ]
+      },
+      "邦": {
+        "tp": {
+          "Scale": "Horizontal"
+        },
+        "components": [
+          {
+            "Char": "丰字旁"
+          },
+          {
+            "Char": "阝"
+          }
+        ]
+      },
+      "金": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "人"
+          },
+          {
+            "Char": "金-人"
+          }
+        ]
+      },
+      "镸": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "镸字头"
+          },
+          {
+            "Char": "厶"
+          }
+        ]
+      },
+      "韭": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "非"
+          },
+          {
+            "Char": "一"
+          }
+        ]
+      },
+      "高-冋": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "亠"
+          },
+          {
+            "Char": "口"
+          }
+        ]
+      },
+      "魚": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "魚字头"
+          },
+          {
+            "Char": "灬"
+          }
+        ]
+      },
+      "魚字头": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "⺈"
+          },
+          {
+            "Char": "田"
+          }
+        ]
+      },
+      "鱼": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "魚字头"
+          },
+          {
+            "Char": "一"
+          }
+        ]
+      },
+      "鹿-比": {
+        "tp": {
+          "Surround": {
+            "h": "Start",
+            "v": "Start"
+          }
+        },
+        "components": [
+          {
+            "Char": "广"
+          },
+          {
+            "Char": "鹿s"
+          }
+        ]
+      },
+      "黾": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "口"
+          },
+          {
+            "Char": "电"
+          }
+        ]
+      },
+      "齑": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "文"
+          },
+          {
+            "Complex": {
+              "tp": {
+                "Scale": "Horizontal"
+              },
+              "components": [
+                {
+                  "Char": "丿"
+                },
+                {
+                  "Char": "韭"
+                },
+                {
+                  "Char": "丨"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "𠂢": {
+        "tp": {
+          "Surround": {
+            "h": "Start",
+            "v": "Start"
+          }
+        },
+        "components": [
+          {
+            "Char": "𠂆"
+          },
+          {
+            "Char": "𧘇s"
+          }
+        ]
+      },
+      "𠫓": {
+        "tp": {
+          "Scale": "Vertical"
+        },
+        "components": [
+          {
+            "Char": "亠"
+          },
+          {
+            "Char": "厶"
+          }
+        ]
+      },
+      "𫂱": {
+        "tp": {
+          "Scale": "Horizontal"
+        },
+        "components": [
+          {
+            "Char": "丿"
+          },
+          {
+            "Char": "米"
+          },
+          {
+            "Char": "丨"
+          }
+        ]
       }
     },
     "place_replace": {
