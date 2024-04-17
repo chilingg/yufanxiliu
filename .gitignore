@@ -1,0 +1,8 @@
+components/*
+struc_data/*
+*.ttf
+*.otf
+test*
+YuFanXiLiu.sfd
+
+__pycache__
